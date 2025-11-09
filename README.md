@@ -12,6 +12,4 @@
 
 ### Selected Pen - link to your selected pen
 
-## Pen Insertion
-
 [**INSERT THE PEN TITLE HERE**](https://codepen.io/Kaitlin-Taylor/pen/GgoVLXp)
